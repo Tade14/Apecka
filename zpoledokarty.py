@@ -6,7 +6,6 @@ while pole:
     pole2.append(pole.pop(random.randint(0,len(pole)-1)))
 
 
-
 print(pole)
 print(pole2)    
     
